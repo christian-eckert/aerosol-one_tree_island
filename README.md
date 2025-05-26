@@ -62,7 +62,6 @@ Generated output includes:
 - Plots show raw particle concentration scans and averaged distributions with standard deviation shading.
 - Files saved in SVG format for better version control.
 
----
 
 ## Dependencies
 
@@ -76,3 +75,10 @@ install.packages(c(
   "gridExtra",
   "here"
 ))
+```
+---
+
+## Further reading: 
+https://www.mdpi.com/2504-446X/8/7/292#
+
+---
