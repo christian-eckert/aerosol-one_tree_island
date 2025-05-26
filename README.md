@@ -1,4 +1,7 @@
 # aerosol-one_tree_island
+
+![Vertical profile graphical abstract near One Tree Island](graphics/aero_oti.png)
+
 ## Processing mSEMS data sampled with DJI AGRAS T30 near One Tree Island (Great Barrier Reef)
 
 
